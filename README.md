@@ -1,3 +1,5 @@
 # trmilli.github.io
 
-Web site for trmilli organization
+This repository hosts the source  for <https://trmilli.github.io>.
+ 
+

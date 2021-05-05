@@ -1,7 +1,7 @@
 ---
-title: Texts
+title: Citable texts
 layout: page
 nav_order: 2
 ---
 
-# Texts
+# Citable texts

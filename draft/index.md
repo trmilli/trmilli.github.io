@@ -10,5 +10,6 @@ has_children: true
 Web site planned to open in June, 2021.
 
 
-
-- Dane Scott's [corpus of Lycian texts](https://descot21.github.io/Lycian/)
+- [Citable texts](./texts/)
+- [Citable images](./images/)
+- [Gazetteer](./gazetteer/)
